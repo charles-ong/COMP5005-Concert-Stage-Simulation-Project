@@ -39,6 +39,6 @@ With choreography file:
 python3 spinal-tap.py choreographyfile.csv
 
 Saving images:
-python3 spinal-tap.py -s
-or
+python3 spinal-tap.py -s  
+or  
 python3 spinal-tap.py choreographyfile.csv -s
