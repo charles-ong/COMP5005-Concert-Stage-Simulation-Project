@@ -1,0 +1,14 @@
+﻿CHOREOGRAPHY,,,,,,,
+Frames,20,,,,,,
+Direction,right,,,,,,
+Backdrop,orange,,,,,,
+,,,,,,,
+,POSITION,COLOUR(S),DIRECTION,INTENSITY,AMOUNT,TYPE,"PATTERN ('/', '\', '|', '-', '+', 'x', 'o', 'O', '.', '*')"
+Light,450,blue,left,5,2,,/
+,,,,,,,
+,POS,DIRECTION,INTENSITY,NEIGHBOUR,,,
+Smoke,300,down,8,vn,,,
+,,,,,,,
+,POS,SHAPE,MOVE,"PATTERN ('/', '\', '|', '-', '+', 'x', 'o', 'O', '.', '*')",,,
+Prop,300,circle,y,O,,,
+Prop,400,triangle,n,*,,,
