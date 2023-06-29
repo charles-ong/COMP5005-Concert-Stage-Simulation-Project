@@ -18,7 +18,9 @@ choreography3.csv - Choreography file of scenario 3
 /choreography3.csv images - Folder containing images created by using choreography3.csv file (scenario 3)
 
 ## Dependencies
-none
+Python ver 3.8 or above
+matplotlib ver 3.7 or above
+NumPy ver 1.20.0 or above
 
 ## Version information
 28/04/23 - Initial files for Assessment
