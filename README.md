@@ -1,6 +1,6 @@
 ## Zhao Xin (Charles) Ong, 21450673
 ## Synopsis
-Assessment for Fundamental of Programming COMP1005/5005
+Assessment for Fundamental of Programming COMP1005/5005  
 Accomplished a score of 98/100 for code features and documentation; and earned an additional 3 bonus marks to achieve a final score of 101/100.
 
 ## Contents
